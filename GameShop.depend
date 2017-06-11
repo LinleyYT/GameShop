@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1497179050 source:d:\programing\gameshop\gameshop\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
+1497190080 source:d:\programing\gameshop\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<math.h>
+
